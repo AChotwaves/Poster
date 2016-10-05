@@ -1,0 +1,38 @@
+	#poster{
+				width:630px;
+				height:700px;
+			
+				background-image:url('zelda.jpg');
+				background-repeat: no-repeat;
+				background-size: contain;
+				
+				display:flex;
+				flex-direction:column;
+				justify-content: space-between;
+			}
+			
+			.child{
+				flex:1 0 450px;
+				
+				color: #add123;
+				text-align:center;
+				font-family:cemong;
+				text-shadow:5px 4px 3px #000;
+				
+			}
+			
+			#teaser{
+				font-size: 45px;
+				text-align: center;
+				padding:20px;
+			}
+			
+		
+			
+			#release-date{
+				vertical-align:middle;
+				text-align:center;
+				front-weight:bold;
+			}
+			
+			
